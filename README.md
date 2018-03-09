@@ -1,8 +1,16 @@
 # Ether dollar & Cryptocongress
+**A Window to the Future of Ethereum as a Free Economic Territory**
 
-A Window to the Future of Ethereum as a Free Economic Territory
+
+Wiki section of this repository is a place for Ether dollar & Cryptocongress documents.
+
+Twitter accounts which are qualified to join the Cryptocongress are listed [here](https://github.com/cryptocongress/members/blob/master/members.csv).
 
 &nbsp;
+
+&nbsp;
+
+# Business White Paper D01
 
 Table of Contents
 =================
