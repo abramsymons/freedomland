@@ -1,6 +1,7 @@
 # Ether dollar & Cryptocongress
-**A Window to the Future of Ethereum as a Free Economic Territory**
+*A Window to the Future of Ethereum as a Free Economic Territory*
 
+&nbsp;
 
 Wiki section of this repository is a place for Ether dollar & Cryptocongress documents.
 
