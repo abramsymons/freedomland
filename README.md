@@ -18,7 +18,7 @@ Table of Contents
 
    * [Ether Dollar, the Money of Ethereum Territory](https://github.com/cryptocongress/documents/wiki#ether-dollar-the-money-of-ethereum-territory)
       * [Why are today’s cryptocurrencies  assets not money?](https://github.com/cryptocongress/documents/wiki#why-are-todays-cryptocurrencies--assets-not-money)
-      * [EtherBank vs Central banks, Which one does offer more stability?](https://github.com/cryptocongress/documents/wiki#ether-etherbank-vs-central-banks-dollar-which-one-does-offer-more-stability)
+      * [EtherBank vs Central banks, Which one does offer more stability?](https://github.com/cryptocongress/documents/wiki#etherbank-vs-central-banks-which-one-does-offer-more-stability)
       * [How to measure the decline or growth of Ether dollar’s value?](https://github.com/cryptocongress/documents/wiki#how-to-measure-the-decline-or-growth-of-ether-dollars-value)
       * [Can “Proof of Stake” be used to find a decentralized and trustworthy price feed?](https://github.com/cryptocongress/documents/wiki#can-proof-of-stake-be-used-to-find-a-decentralized-and-trustworthy-price-feed)
    * [Cryptocongress, A New Approach to Decentralized Trust](https://github.com/cryptocongress/documents/wiki#cryptocongress-a-new-approach-to-decentralized-trust)
