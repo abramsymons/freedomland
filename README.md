@@ -11,7 +11,7 @@ Blockchain is a new type of territory, a new freedomland.
 
 When we discover such a new land, gold rush is one of the first predictable events that take place.
 
-When California gold rush started at 1948, the non-Indian population of California was about 8,000. But just after 4 years, gold rush brought up over 200,000 people to there. The first age of California population came there just looking for gold. But it was just the first step in shaping a state with 40,000,000 population now.
+When California gold rush started at 1848, the non-Indian population of California was about 8,000. But just after 4 years, gold rush brought up over 200,000 people to there. The first age of California population came there just looking for gold. But it was just the first step in shaping a state with 40,000,000 population now.
 
 Current cryptocurrenices are gold of this new territory we have just discovered. Base population who came to this new territory are here looking for gold. Finding gold in a new territory has an enormous effect on making a powerful base of its development, but it is just a base, a first step. To make an economy, we need much more, we need money! Just take a look at $6 trillion worldwide gold market size, and compare it with $90 trillion money market size to understand what it means.
 
