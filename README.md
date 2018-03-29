@@ -1,4 +1,4 @@
-# Ether dollar & Cryptocongress
+# Freedomland
 *A Window to the Future of Ethereum as a Free Economic Territory*
 
 &nbsp;
