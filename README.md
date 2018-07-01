@@ -42,7 +42,7 @@ To find more about Cryptocongress and Ether dollar project, you can explore the 
 
 &nbsp;
 
-# Business White Paper D01
+# Business White Paper D02
 
 Table of Contents
 =================
@@ -76,8 +76,3 @@ Table of Contents
       * [Non monetary and financial applications of Cryptocongress](https://github.com/cryptocongress/documents/wiki#non-monetary-and-financial-applications-of-cryptocongress)
    * [FAQ](https://github.com/cryptocongress/documents/wiki#faq)
       * [Who are we and what is our goal?](https://github.com/cryptocongress/documents/wiki#who-are-we-and-what-is-our-goal)
-   * [ROADMAP](https://github.com/cryptocongress/documents/wiki#roadmap)
-      * [1st Milestone](https://github.com/cryptocongress/documents/wiki#1st-milestone)
-      * [2nd Milestone](https://github.com/cryptocongress/documents/wiki#2nd-milestone)
-      * [3rd Milestone](https://github.com/cryptocongress/documents/wiki#3rd-milestone)
-
